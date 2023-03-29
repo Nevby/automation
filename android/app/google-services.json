@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917501681650",
+    "project_id": "automation-2bfe1",
+    "storage_bucket": "automation-2bfe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917501681650:android:7543c46cfb4494ddb7156b",
+        "android_client_info": {
+          "package_name": "com.automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917501681650-onumpa33mg1gktoehf95vip985tic0j0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qfR23QA5v0l5TkN5aC1i85fBxTvfFF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917501681650-onumpa33mg1gktoehf95vip985tic0j0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
